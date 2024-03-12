@@ -4,4 +4,7 @@
 ## Prerrequisitos
 ### Necesitaremos instalar:
 ### -Instalar Visual Studio Code
-### -Instalar el compilador de C: Comando a utilizar sudo apt install build-essential.
+### -Instalar el compilador de C: Realizar instalación en maquina con linux, comando a utilizar sudo apt install build-essential.
+
+### Autor: Gián Vásquez
+### Carnet: 17007691
